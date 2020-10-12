@@ -1,0 +1,24 @@
+$color-important: #ff59a3;
+$color-base: #ff6f87;
+$color-warning: #ffd65c;
+$color-box-shadow: #bda5ad;
+
+.box-basic {
+  background-color: $color-base;
+}
+.box-important {
+  background-color: $color-important;
+}
+.box-warning {
+  background-color: $color-warning;
+}
+.box-shadowed {
+  box-shadow: -8px 8px 8px #bda5ad;
+}
+
+.text-primary {
+  font-family: "Montserrat", sans-serif;
+}
+.text-secondary {
+  font-family: "Droid Sans Mono", monospace;
+}

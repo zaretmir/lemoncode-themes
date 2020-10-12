@@ -1,0 +1,24 @@
+$color-important: #00e3e8;
+$color-base: #59b7ff;
+$color-warning: #a6f990;
+$color-box-shadow: #9fadbd;
+
+.box-basic {
+  background-color: $color-base;
+}
+.box-important {
+  background-color: $color-important;
+}
+.box-warning {
+  background-color: $color-warning;
+}
+.box-shadowed {
+  box-shadow: 8px 8px 8px $color-box-shadow;
+}
+
+.text-primary {
+  font-family: "Times New Roman", serif;
+}
+.text-secondary {
+  font-family: "Times New Roman", serif;
+}
