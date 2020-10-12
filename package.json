@@ -1,0 +1,17 @@
+{
+  "name": "themes",
+  "version": "1.0.0",
+  "description": "Master in Front-End by Lemoncode - Challenge 2: Create two themes",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layout",
+    "sass",
+    "theme"
+  ],
+  "author": "@zaretmir",
+  "license": "ISC"
+}
