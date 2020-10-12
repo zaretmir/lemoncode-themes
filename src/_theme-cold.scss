@@ -3,6 +3,10 @@ $color-base: #59b7ff;
 $color-warning: #a6f990;
 $color-box-shadow: #9fadbd;
 
+.box {
+  border-radius: 0.25rem;
+}
+
 .box-basic {
   background-color: $color-base;
 }
